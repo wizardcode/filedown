@@ -9,4 +9,7 @@ pip install wget
 python main.py
 
 在浏览器打开http://localhost:5000访问
+
+服务器演示地址：
+http://metadata.wizardcode.cn/file
 ```
